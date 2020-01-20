@@ -1,1 +1,0 @@
-/Users/bobo/trpl_code/basic_rust/target/debug/basic_rust: /Users/bobo/trpl_code/basic_rust/src/install_rust.rs /Users/bobo/trpl_code/basic_rust/src/main.rs /Users/bobo/trpl_code/basic_rust/src/variables_and_mutability.rs
